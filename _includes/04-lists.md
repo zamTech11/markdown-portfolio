@@ -1,4 +1,4 @@
-Learning New Technologies
-Being Geek
-Fan of Git Hub
-Coding
+* Learning New Technologies
+* :tada: Being Geek
+* Fan of Git Hub
+* Coding
