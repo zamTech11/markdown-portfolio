@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Learning New Technologies
+Being Geek
+Fan of Git Hub
+Coding
